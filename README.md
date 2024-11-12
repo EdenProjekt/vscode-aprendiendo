@@ -1,1 +1,1 @@
-Aprendiendo a usar el visual.
+Aprendiendo a usar el visual studio code.
